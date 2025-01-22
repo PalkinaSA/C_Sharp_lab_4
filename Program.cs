@@ -8,17 +8,17 @@ class Program
 {
     public static void Main()
     {
-        //Exercise1();
-        //Console.WriteLine();
+        Exercise1();
+        Console.WriteLine();
 
-        //Exercise2();
-        //Console.WriteLine();
+        Exercise2();
+        Console.WriteLine();
 
-        //Exercise3();
-        //Console.WriteLine();
+        Exercise3();
+        Console.WriteLine();
 
-        //Exercise4();
-        //Console.WriteLine();
+        Exercise4();
+        Console.WriteLine();
 
         Exercise5();
         Console.WriteLine();
